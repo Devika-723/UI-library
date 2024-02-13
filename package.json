@@ -1,0 +1,9 @@
+{
+    "scripts": {
+      "build": "yarn-run-build",
+      "start": "yarn-run-start"
+    },
+    "main": "src/index.js"
+  }
+  
+    
